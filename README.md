@@ -1,4 +1,4 @@
-# statistics_for_ds
+# <데이터 과학을 위한 통계>
 
 https://product.kyobobook.co.kr/detail/S000001810380
 
